@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbaykal=self.webpackChunkbaykal||[]).push([[671],{658:function(a,e,n){n.r(e);n(791);var u=n(184);e.default=function(){return(0,u.jsx)("div",{children:"CatalogPage"})}}}]);
+//# sourceMappingURL=CatalogPage.5677fc85.chunk.js.map

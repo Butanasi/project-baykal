@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/project-baykal/static/js/main.9ffdf5a7.js",
+    "HomePage.js": "/project-baykal/static/js/HomePage.e760263f.chunk.js",
+    "CatalogPage.js": "/project-baykal/static/js/CatalogPage.5677fc85.chunk.js",
+    "index.html": "/project-baykal/index.html",
+    "main.9ffdf5a7.js.map": "/project-baykal/static/js/main.9ffdf5a7.js.map",
+    "HomePage.e760263f.chunk.js.map": "/project-baykal/static/js/HomePage.e760263f.chunk.js.map",
+    "CatalogPage.5677fc85.chunk.js.map": "/project-baykal/static/js/CatalogPage.5677fc85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9ffdf5a7.js"
+  ]
+}
