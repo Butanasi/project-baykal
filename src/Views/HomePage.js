@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
+import SixReasons from '../Component/Sections/SixReasons/SixReasons';
 
- const HomePage = () => {
+const HomePage = () => {
   return (
-    <div>HomePage</div>
-  )
-}
-export default HomePage
+    // <div>HomePage</div>
+    <SixReasons />
+  );
+};
+export default HomePage;
