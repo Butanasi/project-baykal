@@ -1,0 +1,102 @@
+.Head {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 116px;
+    padding: 0 55px;
+    display: flex;
+    background-color: transparent;
+    position: static;
+    z-index: 99;
+}
+
+.HeadPageTwo {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 116px;
+    padding: 0 55px;
+    display: flex;
+    background-color: blue;
+    position: static;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    margin-top: 46px;
+}
+
+.listItem {
+    align-items: center;
+    margin-right: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.svg {
+    margin-left: 5px;
+}
+
+.listId {
+    display: none;
+    margin-top: 10px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: left;
+    padding: 10px 15px;
+    color: #FFFFFF;
+}
+
+.link:hover .listId,
+.svg:hover .listId {
+    display: block;
+}
+
+.logo {
+    width: 167px;
+    height: 232px;
+    margin: 0 53px;
+}
+
+.telIcon {
+    margin-right: 5px;
+}
+
+.tel {
+    margin-right: 53px;
+}
+
+.telLink {
+    margin-left: 5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.socialIcon {
+    margin-right: 13px;
+}
+
+.order {
+    margin-top: 46px;
+    margin-left: 51px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
