@@ -1,11 +1,11 @@
 import {
   Route,
-  NavLink,
   Switch,
   Redirect,
 } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
 import { ROUTES } from './const';
+import { Header } from './Component/Sections/Header';
 
 
 const HomePage = lazy(() =>
@@ -19,28 +19,16 @@ const CatalogPage = lazy(() =>
 
 function App() {
   return <div >
-     <header >
-        <nav>
-          <NavLink
-            exact
-            to={ROUTES.HOME}
-          >
-            Home
-          </NavLink>
-          <NavLink
-            to={ROUTES.CATALOG}
-          >
-            Catalog
-          </NavLink>
-        </nav>
-      </header>
-      <Suspense fallback={<h1>LOADING...</h1>}>
+    <Header />
+    <Suspense fallback={<h1>LOADING...</h1>}>
         <Switch>
           <Route path={ROUTES.HOME} exact component={HomePage} />
           <Route path={ROUTES.CATALOG} exact component={CatalogPage} />
           <Redirect to={ROUTES.HOME} />
         </Switch>
       </Suspense>
+    
+      
   </div>;
 }
 
