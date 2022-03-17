@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.js": "/project-baykal/static/js/main.9ffdf5a7.js",
-    "HomePage.js": "/project-baykal/static/js/HomePage.e760263f.chunk.js",
+    "main.css": "/project-baykal/static/css/main.95a9497a.css",
+    "main.js": "/project-baykal/static/js/main.5af4e195.js",
+    "HomePage.js": "/project-baykal/static/js/HomePage.558534c8.chunk.js",
     "CatalogPage.js": "/project-baykal/static/js/CatalogPage.5677fc85.chunk.js",
+    "static/media/1.jpg": "/project-baykal/static/media/1.c11f8c52b4e2bf728b7f.jpg",
+    "static/media/2.jpg": "/project-baykal/static/media/2.ab2b53af83bdf371fcfd.jpg",
+    "static/media/3.jpg": "/project-baykal/static/media/3.18f2909b10d26984f9ba.jpg",
+    "static/media/4.jpg": "/project-baykal/static/media/4.cd820ec51c6af4016448.jpg",
+    "static/media/5.jpg": "/project-baykal/static/media/5.728a21a4dfc6d32e3d52.jpg",
+    "static/media/log22o.png": "/project-baykal/static/media/log22o.f88efc2af8b8530863f8.png",
+    "static/media/6.jpg": "/project-baykal/static/media/6.dcc4fb62f186da80fc34.jpg",
     "index.html": "/project-baykal/index.html",
-    "main.9ffdf5a7.js.map": "/project-baykal/static/js/main.9ffdf5a7.js.map",
-    "HomePage.e760263f.chunk.js.map": "/project-baykal/static/js/HomePage.e760263f.chunk.js.map",
+    "main.95a9497a.css.map": "/project-baykal/static/css/main.95a9497a.css.map",
+    "main.5af4e195.js.map": "/project-baykal/static/js/main.5af4e195.js.map",
+    "HomePage.558534c8.chunk.js.map": "/project-baykal/static/js/HomePage.558534c8.chunk.js.map",
     "CatalogPage.5677fc85.chunk.js.map": "/project-baykal/static/js/CatalogPage.5677fc85.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ffdf5a7.js"
+    "static/css/main.95a9497a.css",
+    "static/js/main.5af4e195.js"
   ]
 }
