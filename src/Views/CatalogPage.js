@@ -1,8 +1,6 @@
-import React from 'react'
+import React from 'react';
 
- const CatalogPage = () => {
-  return (
-    <div>CatalogPage</div>
-  )
-}
-export default CatalogPage
+const CatalogPage = () => {
+  return <div>CatalogPage</div>;
+};
+export default CatalogPage;
